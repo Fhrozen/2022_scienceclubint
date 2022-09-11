@@ -32,7 +32,7 @@ start /wait "" cmd /c conda install -y python=%PYTHON_VERSION%
 start /wait "" cmd /c conda install -y numpy
 start /wait "" cmd /c conda install -y matplotlib
 start /wait "" cmd /c conda clean -f -y
-start /wait "" cmd /c pip install -r ..\requirements.txt
+start /wait "" cmd /c conda install --file ..\requirements.txt -y
 if !errorlevel! neq 0 exit /b !errorlevel!
 echo.>venv.done
 goto:eof

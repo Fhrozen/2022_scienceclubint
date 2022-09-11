@@ -19,7 +19,19 @@ target="_blank" >
 
 ### 2022/09/11 (JST) - Day 02
 
-- WIP
+- Introduction to Computer Vision:
+
+<a href="https://colab.research.google.com/github/Fhrozen/2022_scienceclubint/blob/main/day_2/Actividad_01.ipynb"
+target="_blank" >
+    <img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
+
+- Introduction to Audio Processing:
+
+<a href="https://colab.research.google.com/github/Fhrozen/2022_scienceclubint/blob/main/day_2/Actividad_02.ipynb"
+target="_blank" >
+    <img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
 
 ### 2022/09/17 (JST) - Day 03
 

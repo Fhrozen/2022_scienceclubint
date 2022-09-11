@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+day_2/test.ipynb
+day_2/sky_02.jpg
