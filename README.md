@@ -35,7 +35,12 @@ target="_blank" >
 
 ### 2022/09/17 (JST) - Day 03
 
-- WIP
+- Introduction to Deep Learning:
+
+<a href="https://colab.research.google.com/github/Fhrozen/2022_scienceclubint/blob/main/day_3/Actividad_01.ipynb"
+target="_blank" >
+    <img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
 
 ### 2022/09/18 (JST) - Day 04
 
