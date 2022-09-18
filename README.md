@@ -44,7 +44,12 @@ target="_blank" >
 
 ### 2022/09/18 (JST) - Day 04
 
-- WIP
+- CV and Sound Processing Tasks:
+
+<a href="https://colab.research.google.com/github/Fhrozen/2022_scienceclubint/blob/main/day_4/Actividad_01.ipynb"
+target="_blank" >
+    <img src ="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
 
 ### 2022/09/24 (JST) - Day 05
 
