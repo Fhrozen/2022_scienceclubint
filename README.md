@@ -59,7 +59,7 @@ target="_blank" >
 
 - Self-supervision:
 
-<a href="https://colab.research.google.com/github/Fhrozen/2022_scienceclubint/blob/main/day_6/Actividad_01.ipynb"
+<a href="https://colab.research.google.com/github/Fhrozen/2022_scienceclubint/blob/main/day_6/Activity_01.ipynb"
 target="_blank" >
     <img src ="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
